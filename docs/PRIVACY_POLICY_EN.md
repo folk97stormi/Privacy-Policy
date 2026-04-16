@@ -45,3 +45,10 @@ SubTrack helps users track recurring subscriptions, renewal dates, and estimated
 ## Contact
 
 For privacy-related questions, use the developer contact information shown on the SubTrack Google Play listing.
+<<<<<<< HEAD
+=======
+
+## Public policy URL
+
+`https://folk97stormi.github.io/Privacy-Policy/`
+>>>>>>> d085bf4 (Remove public policy URL from privacy page)
