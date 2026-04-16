@@ -45,7 +45,3 @@ SubTrack helps users track recurring subscriptions, renewal dates, and estimated
 ## Contact
 
 For privacy-related questions, use the developer contact information shown on the SubTrack Google Play listing.
-
-## Public policy URL
-
-`https://paste.rs/I4wfk`
